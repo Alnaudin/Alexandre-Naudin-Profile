@@ -1,0 +1,30 @@
+body {
+    background-color: #D8D2C2;
+}
+
+.header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    top: 0;
+    background-color: #4A4947;
+    display: flex;
+}
+
+.page_title {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+h3 {
+    color: #B17457;
+}
+
+.logo {
+    height: 65px;
+}

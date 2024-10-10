@@ -1,0 +1,11 @@
+.flags {
+    height: 20px;
+}
+
+#flag_list {
+    display: flex;
+}
+
+.flags:hover {
+    scale: 1.1;
+}
